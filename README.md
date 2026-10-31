@@ -1,4 +1,4 @@
-﻿# Fitness-Project-C-
+﻿# Fitness-Project-C++
 # 🏋️ Gym Management & Fitness System
 
 A console-based Gym Management System developed in C++ that simplifies gym operations through role-based access for administrators, trainers, and customers.
